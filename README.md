@@ -1,4 +1,4 @@
-👋 Hi, I’m Alexander Fleming, a Computer Science student based in Malmö Sweden.
+👋 Hi, I’m Alexander Fleming, a software engineer based in Malmö Sweden.
 
 
 <!---
